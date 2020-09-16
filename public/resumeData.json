@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Nabeel khan",
+    "occupation": "Front-End ReactJS Developer && Accessibility Developer",
+    "description": "",
+    "image": "nabeelkhan.jpeg",
+    "bio": "My name is Nabeel, I'm a ReactJS Developer. Currently I'm working as a Front-End Developer ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "khannabeelkhan786@gmail.com",
+    "phone": "+91 7838478764",
+    "address": {
+      "street": "Block-B House-No 294, Jahangirpuri ",
+      "city": "Delhi",
+      "state": "India",
+      "zip": "110033"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1FJqgBkDxYsjQIuftteDnFElCR2m_ienu/view",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/people/Nabeel-Khan/100005869350275",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nabeel-khan-6b4953116/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/iamnabeelkhan_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Nabeelkhan786",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Dr. A.P.J. Abdul Kalam Technical University ",
+        "degree": "Bachelor of technology in computer science",
+        "graduated": "June 2017",
+        "description": "Graduated with 75.6%"
+      },
+      {
+        "school": "GreenWood Sr. Sec School ",
+        "degree": "12th",
+        "graduated": "March 2013",
+        "description": "Passed with 82%"
+      }
+    ],
+    "work": [
+      {
+        "company": "QA Infotech",
+        "title": "Software Development Engineer II",
+        "years": "June 2017 - Present",
+        "description": "Working as a Front End developer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Accessibility",
+        "level": "100%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "SalesForce Lightning",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
