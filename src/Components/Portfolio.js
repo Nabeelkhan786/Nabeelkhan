@@ -33,7 +33,10 @@ class Portfolio extends Component {
             <h1>Check Out Some of My Works.</h1>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-               <h1 > No Work available</h1>
+             
+               <h1 >{projects ? 'No Work available' : 'No Work available' } No Work available
+
+               </h1>
             </div>
           </div>
       </div>
